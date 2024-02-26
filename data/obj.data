@@ -1,0 +1,5 @@
+classes = 9
+train = /home/minh/darknet/data/train.txt
+val = /home/minh/darknet/data/val.txt
+names = /home/minh/darknet/data/obj.names
+backup = /home/minh/darknet/data
